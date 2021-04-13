@@ -1,0 +1,13 @@
+{
+  "name": "GithubActionTest",
+  "version": "1.0.0",
+  "description": "GithubActionTest",
+  "main": "index.js",
+  "repository": "https://github.com/olumide025/GithubActionTest.git",
+  "author": "Abeeb Ridwan Olumide <igortunde@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.7",
+    "@actions/github": "^4.0.0"
+  }
+}
